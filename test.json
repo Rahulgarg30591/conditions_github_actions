@@ -1,24 +1,16 @@
 {
-  "numTotalTestSuites": 3,
+  "numTotalTestSuites": 2,
   "numPassedTestSuites": 2,
-  "numFailedTestSuites": 1,
+  "numFailedTestSuites": 0,
   "numPendingTestSuites": 0,
   "numTotalTests": 2,
   "numPassedTests": 2,
   "numFailedTests": 0,
   "numPendingTests": 0,
   "numTodoTests": 0,
-  "startTime": 1703573497937,
-  "success": false,
+  "startTime": 1703574070464,
+  "success": true,
   "testResults": [
-    {
-      "assertionResults": [],
-      "startTime": 1703573497937,
-      "endTime": 1703573497937,
-      "status": "passed",
-      "message": "[vite-node] Failed to load @playwright/test",
-      "name": "/Users/rahulgarg/Projects/github_actions/conditions/tests/events-api.spec.js"
-    },
     {
       "assertionResults": [
         {
@@ -44,8 +36,8 @@
           "failureMessages": []
         }
       ],
-      "startTime": 1703573498987,
-      "endTime": 1703573499048,
+      "startTime": 1703574071362,
+      "endTime": 1703574071423,
       "status": "passed",
       "message": "",
       "name": "/Users/rahulgarg/Projects/github_actions/conditions/src/components/MainContent.test.jsx"
